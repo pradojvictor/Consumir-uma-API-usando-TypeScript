@@ -1,6 +1,6 @@
 # Consumir-uma-API-usando-TypeScript
 ##
-foi criado uma pagina html usando Bootstrap, para consumir uma api usando typescript. Esse foi o primeiro contato usando as facilidades do typescrip, 
+foi criado uma pagina html usando Bootstrap, para consumir uma api usando typescript. Esse foi o primeiro contato usando as facilidades do typescrip. usamos o metodo get e o put neste projeto.
 ##
 API usada:
 
